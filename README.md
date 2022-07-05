@@ -1,7 +1,9 @@
 # MainApi
 - En este proyecto implementamos el recurso de NewsAPI para mostrar artículos y titulares de noticias de última hora de fuentes de noticias y blogs en toda la web
--
-- Api de Noticias
+
+# Las Tecnologias que utilice para el desarrollo de este proyecto son 
+- NET 6
+- News Api
 - ImplementacionRedisCache 
 - EntityFramework
 - SQL
