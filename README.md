@@ -7,7 +7,11 @@
 - ImplementacionRedisCache 
 - EntityFramework
 - SQL
-# ENDPoint
+# Levantar el proyecto
+- para clonar el proyecto :
+- https://github.com/aventuracode/MainApi.git
+- Nota: para poder utilizar NewsAPi en un entorno productivo debemos obtener una key bussines o adanced.
+# Apis
 ![api](https://user-images.githubusercontent.com/99928377/177228070-2c66d643-5b44-4722-becc-44081cd0fcae.JPG)
 
 ![topheadlines](https://user-images.githubusercontent.com/99928377/177228079-f3376b41-8912-4484-a36b-58a3e992e763.JPG)
