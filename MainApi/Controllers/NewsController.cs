@@ -18,7 +18,7 @@ namespace MainApi.Controllers
         
         [Route("search")]
         [HttpGet]
-        public async Task<ActionResult> GetSearchNews(string dateFrom = "2022-07-01", string dateTo = "2022-07-01", string keywords = "Apple", int page = 1)
+        public async Task<ActionResult> GetSearchNews(string dateFrom = "2022-07-01", string dateTo = "2022-07-04", string keywords = "dolar", int page = 1)
         {
             try
             {
@@ -36,7 +36,7 @@ namespace MainApi.Controllers
 
         [Route("topheadlines")]
         [HttpGet]
-        public async Task<ActionResult> GetNewsTopHeadlines(string country = "us", int page = 1)
+        public async Task<ActionResult> GetNewsTopHeadlines(string country = "ar", int page = 1)
         {
             try
             {
